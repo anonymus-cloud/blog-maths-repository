@@ -1,2 +1,3 @@
-Pour exécuter le programme il faudra taper dans un terminal la commande:
-mvn clean javafx:run
+L'app entière est contenue dans le zip clique_app. Il faudra donc le télécharger.
+L'exécution du programme se fait avec  la commande:
+(*mvn clean javafx:run*) dans un terminal
