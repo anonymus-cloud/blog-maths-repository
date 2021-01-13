@@ -1,4 +1,4 @@
-package clique;
+//package clique;
 
 public class Arete {
     public Sommet s1, s2;
