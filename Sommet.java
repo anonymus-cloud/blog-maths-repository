@@ -1,4 +1,4 @@
-package clique;
+//package clique;
 
 public class Sommet {
     public String nomSommet;
