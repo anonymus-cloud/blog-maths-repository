@@ -1,4 +1,4 @@
-    package clique;
+    //package clique;
 
     import com.jfoenix.controls.JFXButton;
     import com.jfoenix.controls.JFXToggleButton;
