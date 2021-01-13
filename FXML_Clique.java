@@ -1,4 +1,4 @@
-package clique;
+//package clique;
 
 import javafx.animation.FadeTransition;
 import javafx.fxml.FXML;
