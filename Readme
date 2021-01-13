@@ -1,0 +1,2 @@
+Pour exécuter le programme il faudra taper dans un terminal la commande:
+mvn clean javafx:run
